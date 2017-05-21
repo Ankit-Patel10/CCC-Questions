@@ -35,7 +35,7 @@ public class ccc1996Q1 {
             i++;
         }
         
-        // Loop in order to determine whetehr an integer is Deficient, Perfect, or Abundant
+        // Loop in order to determine whether an integer is Deficient, Perfect, or Abundant
         // The loop is run equal to the number of integers choosen in the starting
         while (k <= numOfIntegers) {
             int num = integers.get(0+a);
